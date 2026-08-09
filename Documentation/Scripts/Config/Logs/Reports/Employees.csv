@@ -1,0 +1,6 @@
+EmployeeID,FirstName,LastName,Department,JobTitle,Manager,BankRole,Status
+1001,Husain,Alghamdi,IT,Security Analyst,Ahmed.Manager,VIEWER,Active
+1002,Sara,Ahmad,HR,HR Specialist,Noura.Manager,VIEWER,Active
+1003,Albaraa,Alshehri,Finance,Financial Analyst,Manar.Manager,PROCESSOR,Active
+1004,Abdurahman,Alahmadi,Operations,Operations Officer,Faisal.Manager,VIEWER,Active
+1005,Manar,Alotaibi,Finance,Finance Manager,Khalid.Director,APPROVER,Active

@@ -1,0 +1,6 @@
+Department,JobTitle,DepartmentGroup,BankRole,BankGroup,RiskLevel,ApprovalRequired
+IT,Security Analyst,GG_IT,VIEWER,BANK_APP_VIEWER,Low,No
+HR,HR Specialist,GG_HR,VIEWER,BANK_APP_VIEWER,Low,No
+Finance,Financial Analyst,GG_FINANCE,PROCESSOR,BANK_APP_PROCESSOR,Medium,Yes
+Operations,Operations Officer,GG_OPERATIONS,VIEWER,BANK_APP_VIEWER,Low,No
+Finance,Finance Manager,GG_FINANCE,APPROVER,BANK_APP_APPROVER,High,Yes
